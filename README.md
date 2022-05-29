@@ -61,7 +61,7 @@ flutter run -d web-server
 
 ![alt text](https://github.com/esdras-santos/canary_metis/blob/main/run.PNG?raw=true)
 
-## Canary addresses
+## Canary addresses (Moonbase alpha testnet)
 
 ### Main addresses
 Diamond Address: [0x55b92Ed41e062706F9d46A31065deB9E8DDDda8F](https://moonbase.moonscan.io/address/0x55b92Ed41e062706F9d46A31065deB9E8DDDda8F)
@@ -80,14 +80,14 @@ Diamond Loupe address: [0x5D9efE77aCb9D0DfCfC8aAE134696A5587cc1273](https://moon
 Diamond ownership address: [0xAD25D794E88c358C4bE5899d98EB06b1f7080141](https://moonbase.moonscan.io/address/0xAD25D794E88c358C4bE5899d98EB06b1f7080141)
 
 
-## Canary Governance Addresses
+## Canary Governance Addresses (Moonbase alpha testnet)
 Governance Token (CAT) address: [0xffbaFaFFbd68F00CE7b33A04324aA148B1dBDb28](https://moonbase.moonscan.io/address/0xffbaFaFFbd68F00CE7b33A04324aA148B1dBDb28)
 
 TimeLock address: [0x903B36307A1a063911713EA75D1AaA4Cb6ef484d](https://moonbase.moonscan.io/address/0x903B36307A1a063911713EA75D1AaA4Cb6ef484d)
 
 Governor address: [0x20C287080C0fb7fa8CAD540f7da62b072E5ea4A9](https://moonbase.moonscan.io/address/0x20C287080C0fb7fa8CAD540f7da62b072E5ea4A9)
 
-## Test collection address
+## Test collection address (Moonbase alpha testnet)
 Fruit Collection address: [0xf0DE0D55EcCD2a27B281b39036f8FF36dBa1d13b](https://moonbase.moonscan.io/address/0xf0DE0D55EcCD2a27B281b39036f8FF36dBa1d13b)
 
 ## Future Roadmap
